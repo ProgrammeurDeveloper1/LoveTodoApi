@@ -297,7 +297,7 @@
                 "name": "Flirty",
                 "banner": "https://res.cloudinary.com/dafwuzmm4/image/upload/v1735637654/flirty_uzdihj.jpg",
                 "subs": {
-                    "b01": {
+                    "c01": {
                         "id": "c01",
                         "name": "Playful Teasing",
                         "content": [
@@ -346,7 +346,7 @@
                             "You're cute when you act tough... but I think you’re soft on the inside."
                         ]
                     },
-                    "b02": {
+                    "c02": {
                         "id": "c02",
                         "name": "Compliment-Based Flirting",
                         "content": [
@@ -392,7 +392,7 @@
                             "Your intelligence is such a turn-on; I love how you always know just what to say."
                         ]
                     },
-                    "b03": {
+                    "c03": {
                         "id": "c03",
                         "name": "Cheeky & Bold",
                         "content": [
@@ -445,7 +445,7 @@
                 "name": "Family",
                 "banner": "https://res.cloudinary.com/dafwuzmm4/image/upload/v1738668576/family-2_ytktv0.jpg",
                 "subs": {
-                    "b01": {
+                    "d01": {
                         "id": "d01",
                         "name": "Emotional & Supportive Messages",
                         "content": [
@@ -501,7 +501,7 @@
                             "Stay strong, keep believing, and know that your family has your back."
                         ]
                     },
-                    "b02": {
+                    "d02": {
                         "id": "d02",
                         "name": "Celebratory Messages",
                         "content": [
@@ -547,7 +547,7 @@
                             "No matter the occasion, celebrating with you all makes life beautiful!"
                         ]
                     },
-                    "b03": {
+                    "d03": {
                         "id": "d03",
                         "name": "Daily Check-ins & Casual Messages",
                         "content": [
@@ -600,7 +600,7 @@
                 "name": "Romantic",
                 "banner": "https://res.cloudinary.com/dafwuzmm4/image/upload/v1738671186/romantic_rx8jfa.jpg",
                 "subs": {
-                    "b01": {
+                    "e01": {
                         "id": "e01",
                         "name": "Passionate Romantic Messages",
                         "content": [
@@ -756,7 +756,7 @@
                             "I am so lucky to have found you, and I will spend my life loving you completely."
                         ]
                     },
-                    "b02": {
+                    "e02": {
                         "id": "e02",
                         "name": "Sweet and Tender Romantic Messages",
                         "content": [
@@ -912,7 +912,7 @@
                             "You are my forever, my always, and I can’t wait to see what the future holds for us."
                         ]
                     },
-                    "b03": {
+                    "e03": {
                         "id": "e03",
                         "name": "Playful and Flirty Romantic Messages",
                         "content": [
